@@ -1,0 +1,2 @@
+# DataFactorySrcConverter
+Azure Data Factoryの構成ファイルをJsonで出力するツール
